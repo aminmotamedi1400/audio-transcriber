@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# cache
+__pycache__/
+*.pyc
+*.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# uv
+uv.lock
